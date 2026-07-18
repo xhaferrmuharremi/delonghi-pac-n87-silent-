@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<irplus>
+    <device manufacturer="DeLonghi" model="PAC N87 Silent / N90 Eco" format="NEC">
+        <button label="OFF">12288010</button>
+        <button label="ON AC 16C">12288100</button>
+        <button label="ON AC 18C">12288140</button>
+        <button label="ON AC 20C">12288120</button>
+        <button label="ON AC 22C">12288160</button>
+        <button label="ON AC 24C">12288110</button>
+        <button label="ON AC 26C">12288150</button>
+        <button label="ON AC 28C">12288130</button>
+        <button label="ON AC 30C">12288170</button>
+        <button label="MODE AC">12288110</button>
+        <button label="MODE DEHUM">12228110</button>
+        <button label="MODE BLOW">12218110</button>
+        <button label="FAN LOW">12488110</button>
+        <button label="FAN MID">12288110</button>
+        <button label="FAN HIGH">12188110</button>
+        <button label="TIMER 1h">12288310</button>
+        <button label="TIMER 2h">12284310</button>
+        <button label="TIMER 3h">1228C310</button>
+        <button label="TIMER 4h">12282310</button>
+        <button label="TIMER 5h">1228A310</button>
+        <button label="TIMER 6h">12286310</button>
+        <button label="TIMER 7h">1228E310</button>
+        <button label="TIMER 8h">12281310</button>
+    </device>
+</irplus>
