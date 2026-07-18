@@ -1,0 +1,144 @@
+Filetype: IR signals file
+Version: 1
+#
+# DeLonghi PAC N87 Silent / N90 Eco
+# NEC 32-bit protocol (address + command)
+#
+# 
+name: Power OFF
+type: parsed
+protocol: NECext
+address: 1228 00 00
+command: 8010 00 00
+# 
+name: Power ON 16C
+type: parsed
+protocol: NECext
+address: 1228 00 00
+command: 8100 00 00
+# 
+name: Power ON 18C
+type: parsed
+protocol: NECext
+address: 1228 00 00
+command: 8140 00 00
+# 
+name: Power ON 20C
+type: parsed
+protocol: NECext
+address: 1228 00 00
+command: 8120 00 00
+# 
+name: Power ON 22C
+type: parsed
+protocol: NECext
+address: 1228 00 00
+command: 8160 00 00
+# 
+name: Power ON 24C
+type: parsed
+protocol: NECext
+address: 1228 00 00
+command: 8110 00 00
+# 
+name: Power ON 26C
+type: parsed
+protocol: NECext
+address: 1228 00 00
+command: 8150 00 00
+# 
+name: Power ON 28C
+type: parsed
+protocol: NECext
+address: 1228 00 00
+command: 8130 00 00
+# 
+name: Power ON 30C
+type: parsed
+protocol: NECext
+address: 1228 00 00
+command: 8170 00 00
+# 
+name: Mode AC
+type: parsed
+protocol: NECext
+address: 1228 00 00
+command: 8110 00 00
+# 
+name: Mode Dehumidify
+type: parsed
+protocol: NECext
+address: 1222 00 00
+command: 8110 00 00
+# 
+name: Mode Blow
+type: parsed
+protocol: NECext
+address: 1221 00 00
+command: 8110 00 00
+# 
+name: Fan Low
+type: parsed
+protocol: NECext
+address: 1248 00 00
+command: 8110 00 00
+# 
+name: Fan Mid
+type: parsed
+protocol: NECext
+address: 1228 00 00
+command: 8110 00 00
+# 
+name: Fan High
+type: parsed
+protocol: NECext
+address: 1218 00 00
+command: 8110 00 00
+# 
+name: Timer 1h
+type: parsed
+protocol: NECext
+address: 1228 00 00
+command: 8310 00 00
+# 
+name: Timer 2h
+type: parsed
+protocol: NECext
+address: 1228 00 00
+command: 4310 00 00
+# 
+name: Timer 3h
+type: parsed
+protocol: NECext
+address: 1228 00 00
+command: C310 00 00
+# 
+name: Timer 4h
+type: parsed
+protocol: NECext
+address: 1228 00 00
+command: 2310 00 00
+# 
+name: Timer 5h
+type: parsed
+protocol: NECext
+address: 1228 00 00
+command: A310 00 00
+# 
+name: Timer 6h
+type: parsed
+protocol: NECext
+address: 1228 00 00
+command: 6310 00 00
+# 
+name: Timer 7h
+type: parsed
+protocol: NECext
+address: 1228 00 00
+command: E310 00 00
+# 
+name: Timer 8h
+type: parsed
+protocol: NECext
+address: 1228 00 00
+command: 1310 00 00
